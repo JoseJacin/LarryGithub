@@ -2,6 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**José J. Sánchez**
+**José J. Sánchez**, Git Lover
 
 
